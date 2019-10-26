@@ -1,1 +1,3 @@
-test
+$(function(){
+    var test = "testing";
+})
